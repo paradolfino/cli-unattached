@@ -1,0 +1,4 @@
+[testing gitdeclare]
+### 31/03/2018[18:39 - 18:42]:
+* testing
+
