@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 puts "hello world"
-asdalsd;las;d;l
+puts "Well, you're probably wondering why I exist. No reason. Just testing GitDeclare."
